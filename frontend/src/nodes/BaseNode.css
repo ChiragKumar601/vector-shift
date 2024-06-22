@@ -1,0 +1,33 @@
+.base-node {
+    /* width: 250px; */
+    border: 1px solid blueviolet;
+    position: relative;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+  }
+
+  .heading{
+    margin-bottom: 15px;
+    font-weight: 500;
+    font-size: 18px;
+  }
+
+  
+  .variable-handle {
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .variable-handle span {
+    margin-right: 150px;
+  }
+  
+  .input-fields{
+    width: 90%;
+    margin-bottom: 2px;
+    border-color: blueviolet;
+  }
+
